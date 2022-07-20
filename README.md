@@ -1,2 +1,2 @@
 # NetSet
-# simple string generator
+# simple php string generator
