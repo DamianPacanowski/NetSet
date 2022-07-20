@@ -2,7 +2,7 @@
 # simple php string generator
 # to use add this code in to php
 
-include('https://github.com/DamianPacanowski/NetSet/blob/c6ff7587c50cc7d2a33d64b51d6ac8beaf4493db/net.set.php');
+include('https://github.com/DamianPacanowski/NetSet/blob/af5fd81b68d41e3fe9ff927944a6a17639ba7d0e/net.set.php');
 
 $net_set = new net;
 
