@@ -27,7 +27,7 @@
 			$SL='abcdefghijklmnoprstuwyvqz';
 			$_s_s_SL=str_shuffle($SL);
 			
-			$Sy=substr('!|_&?,."*%#@=+-',0,25);
+			$Sy=substr('!|_&?,."*%#@=+-');
 			$_s_s_Sy=str_shuffle($Sy);
 			
 			$_GET_ALL=str_shuffle($_s_s_Nu.$_s_s_BL.$_s_s_SL.$_s_s_Sy);
