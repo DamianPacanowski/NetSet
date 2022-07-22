@@ -1,4 +1,4 @@
-
+<?php
 	class net
 	{
 		private $net_stamp;
@@ -44,3 +44,4 @@
 		
 	}
 
+?>
